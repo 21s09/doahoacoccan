@@ -1,14 +1,16 @@
 :root{
 
-    --primary:#d98c9f;
+    --primary:#fdebf2;
 
-    --secondary:#f6e8eb;
+    --hotpink:#fe4da3;
 
-    --background:#fffdfb;
+    --background:#fdebf2;
 
-    --text:#3f3f3f;
+    --text:#666666;
 
-    --white:#ffffff;
+    --purple:#6058f9;
+
+    --blue:#50a3fc;
 
     --shadow:0 10px 30px rgba(0,0,0,.08);
 
